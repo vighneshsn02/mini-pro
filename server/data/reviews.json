@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "prod-1",
+    "userName": "Meera Krishnan",
+    "userLocation": "Chennai, Tamil Nadu",
+    "rating": 5,
+    "date": "08 Nov 2026",
+    "verified": true,
+    "comment": "Absolutely mesmerizing craftsmanship! The cobalt blue shade glows when the morning sunlight touches it. It came with a handwritten thank-you blessing from Master Rameshwar and was packaged with 100% paper and zero plastic. Truly proud to support our artisans.",
+    "artisanResponse": "Dhanyawad Meera-ji. May the peacock bring prosperity and light to your home."
+  },
+  {
+    "id": "rev-2",
+    "productId": "prod-2",
+    "userName": "Rhea Sen",
+    "userLocation": "Mumbai, Maharashtra",
+    "rating": 5,
+    "date": "02 Nov 2026",
+    "verified": true,
+    "comment": "You can smell the natural indigo and earth in this Ajrakh saree! The modal silk feels so cool and soft against the skin. The precision of the hand-carved wood block alignment is astonishing.",
+    "artisanResponse": "Khatri Abdul Rahim: Shukriya Rhea-ji! Wearing natural indigo honours the water and desert land."
+  },
+  {
+    "id": "rev-3",
+    "productId": "prod-6",
+    "userName": "Aditya Rao",
+    "userLocation": "Hyderabad, Telangana",
+    "rating": 5,
+    "date": "04 Nov 2026",
+    "verified": true,
+    "comment": "Got this Channapatna train for my 2-year-old nephew. It's so smooth, no splinter or sharp corner anywhere, and knowing the colors are turmeric and natural lacquer gives immense peace of mind.",
+    "artisanResponse": "Govinda Swamy: Blessings to the little child from our toy town!"
+  }
+]

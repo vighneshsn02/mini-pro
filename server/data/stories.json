@@ -1,0 +1,50 @@
+[
+  {
+    "id": "story-1",
+    "title": "Ajrakh: The Sacred Indigo River & Geometry of the Desert",
+    "slug": "ajrakh-sacred-indigo-river",
+    "author": "Khatri Abdul Rahim & Editorial Guild",
+    "region": "Kutch, Gujarat",
+    "readTime": "6 min read",
+    "publishDate": "November 2026",
+    "coverImage": "https://images.unsplash.com/photo-1606744824163-985d376605aa?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Discover how a 16-step alchemical process transforms wild desert indigo and iron rust into fabric that mirrors the midnight cosmos.",
+    "content": "For centuries, the nomadic Maldhari pastoralists of the Great Rann of Kutch have wrapped themselves in Ajrakh. The word itself resonates with Arabic roots meaning 'Azrak' (blue) and colloquial Kutchi meaning 'Aaj Rakh' — keep it today. What makes Ajrakh an engineering marvel is the 16 separate stages of resist-paste application, mud washing in running river water, boiling in copper cauldrons with pomegranate skins, and sun curing. The geometrical grids — calculated to mathematical perfection without rulers — reflect ancient Mughal and Islamic architecture, while the deep indigo and madder reds are 100% extracted from indigenous vegetation."
+  },
+  {
+    "id": "story-2",
+    "title": "Jaipur's Blue Pottery: The Craft That Refused Clay",
+    "slug": "jaipur-blue-pottery-craft-without-clay",
+    "author": "Master Rameshwar Prajapati",
+    "region": "Jaipur, Rajasthan",
+    "readTime": "5 min read",
+    "publishDate": "October 2026",
+    "coverImage": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "Unlike every other pottery tradition in the world, Jaipur Blue Pottery never touches river clay. Here is the secret recipe of quartz stone and Persian glass.",
+    "content": "When Sawai Ram Singh II of Jaipur observed potters flying kites in the 19th century and noticed their kite strings were coated with an extraordinary luminous blue glass paste, he sent two local brothers to Delhi to learn the Persian glaze technique. What makes Jaipur Blue Pottery extraordinary is its complete rejection of clay. The dough is compounded from crushed raw quartz stones, recycled glass cullet, Fuller's Earth (Multani Mitti), and natural kikar gum. Fired only once at low temperatures, it emerges with an unmatched semi-translucent jewel tone that withstands centuries without losing color."
+  },
+  {
+    "id": "story-3",
+    "title": "Dhokra Metallurgy: 4,000 Years from Mohenjo-daro to Modern Bastar",
+    "slug": "dhokra-metallurgy-4000-years",
+    "author": "Budhram Baghel",
+    "region": "Bastar, Chhattisgarh",
+    "readTime": "7 min read",
+    "publishDate": "September 2026",
+    "coverImage": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "The famous Dancing Girl of Mohenjo-daro was cast using the exact same lost-wax technique used today in the forest villages of Kondagaon.",
+    "content": "In the tribal heartland of Bastar, the Ghadwa community creates brass sculptures that carry four millennia of unbroken metallurgical history. Using beeswax extracted from wild honeycombs, the artisan hand-rolls microscopically thin wax wires, wrapping them around a clay core shaped from river mud and rice chaff. When molten bell metal is poured into the sealed mould, the wax melts into the earth, sacrificing itself so the metal can embody the design. Because each mould is cracked open with a hammer, every single Dhokra artifact is an unrepeatable work of art."
+  },
+  {
+    "id": "story-4",
+    "title": "Why Handmade Wins: The Real Economics of Fair Wages for Indian Artisans",
+    "slug": "why-handmade-wins-fair-wages-impact",
+    "author": "KalaKriti Research & Artisan Trust",
+    "region": "Pan-India",
+    "readTime": "4 min read",
+    "publishDate": "November 2026",
+    "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+    "excerpt": "How direct-from-artisan e-commerce returns up to 80% of retail price to rural craftspeople, cutting out predatory middlemen.",
+    "content": "For decades, traditional craftspeople have been exploited by multi-tiered middleman networks that bought heirlooms for pennies and resold them in luxury urban boutiques for thousands. KalaKriti operates on a direct-to-artisan model: 75% to 85% of every rupee spent goes directly into the bank accounts of the artisan guilds. Moreover, by adhering strictly to zero-plastic packaging and natural biodegradable materials, handmade craft remains one of the lowest-carbon industries on earth."
+  }
+]

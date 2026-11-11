@@ -1,0 +1,30 @@
+[
+  {
+    "id": "msg-1",
+    "createdAt": "2026-11-11T09:15:00.000Z",
+    "artisanId": "art-1",
+    "artisanName": "Master Rameshwar Prajapati",
+    "customerName": "Vikram Adve",
+    "customerEmail": "vikram.adve@example.com",
+    "subject": "Customized Set of 12 Blue Pottery Dinner Bowls",
+    "message": "Namaste Rameshwar-ji! I loved your peacock urn. Can your studio hand-paint a custom set of 12 dinner soup bowls with a deep turquoise rim and floral motif for our new home in Pune? Could you advise lead time and quotation?",
+    "inquiryType": "Custom Commission",
+    "status": "Replied",
+    "artisanReply": "Namaste Vikram-ji! Dhanyawad for appreciating our craft. Yes, our guild can hand-turn and paint 12 soup bowls. It will take approx 18-20 days for shaping, sun drying, raw glaze painting, and single firing. We would be delighted to craft this for your new home.",
+    "repliedAt": "2026-11-11T12:00:00.000Z"
+  },
+  {
+    "id": "msg-2",
+    "createdAt": "2026-11-11T14:20:00.000Z",
+    "artisanId": "art-3",
+    "artisanName": "Devi Artisan Collective",
+    "customerName": "Ananya Sen",
+    "customerEmail": "ananya.sen@example.com",
+    "subject": "Thank you for the Tree of Life painting!",
+    "message": "Dear Shobha Devi-ji and the wonderful sisters in Jitwarpur: I received the Tree of Life canvas yesterday. The precision of the bamboo nib lines brought tears of joy to my grandmother's eyes. Thank you for keeping this sacred art alive!",
+    "inquiryType": "Artisan Thank You Note",
+    "status": "Pending",
+    "artisanReply": null,
+    "repliedAt": null
+  }
+]

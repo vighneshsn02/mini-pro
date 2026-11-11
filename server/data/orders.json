@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ORD-26375",
+    "createdAt": "2026-11-11T14:52:58.137Z",
+    "status": "Order Placed",
+    "trackingSteps": [
+      {
+        "title": "Order Confirmed & Artisan Guild Notified",
+        "date": "Just now",
+        "completed": true
+      },
+      {
+        "title": "Handcrafted Packaging with Recycled Materials",
+        "date": "Pending",
+        "completed": false
+      },
+      {
+        "title": "Dispatched with Carbon-Neutral Logistics",
+        "date": "Pending",
+        "completed": false
+      },
+      {
+        "title": "Delivered to Doorstep",
+        "date": "Pending",
+        "completed": false
+      }
+    ],
+    "customer": {
+      "name": "Priyanka Sharma",
+      "email": "priyanka.s@example.com",
+      "phone": "+91 98765 43210",
+      "address": "402, Lotus Greens, 100 Feet Road, Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560038"
+    },
+    "items": [
+      {
+        "productId": "prod-1",
+        "title": "Royal Peacock Handcrafted Blue Pottery Urn Vase",
+        "artisanName": "Master Rameshwar Prajapati",
+        "price": 2450,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=800&q=80"
+      }
+    ],
+    "subtotal": 2450,
+    "shipping": 0,
+    "artisanTip": 250,
+    "total": 2700,
+    "paymentMethod": "COD",
+    "handwrittenNoteRequested": true,
+    "noteMessage": "With heartfelt gratitude for supporting authentic Indian craftspersons."
+  },
+  {
+    "id": "ORD-84920",
+    "createdAt": "2026-11-10T14:32:00.000Z",
+    "customer": {
+      "name": "Priyanka Sharma",
+      "email": "priyanka.s@example.com",
+      "phone": "+91 98765 43210",
+      "address": "402, Lotus Greens, Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560038"
+    },
+    "items": [
+      {
+        "productId": "prod-1",
+        "title": "Royal Peacock Handcrafted Blue Pottery Urn Vase",
+        "artisanName": "Master Rameshwar Prajapati",
+        "price": 2450,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=400&q=80"
+      },
+      {
+        "productId": "prod-6",
+        "title": "Channapatna Hand-Turned Organic Wooden Toy Rainbow Train",
+        "artisanName": "Govinda Swamy",
+        "price": 1250,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=400&q=80"
+      }
+    ],
+    "subtotal": 3700,
+    "shipping": 0,
+    "artisanTip": 150,
+    "total": 3850,
+    "status": "In Transit",
+    "trackingSteps": [
+      {
+        "title": "Order Confirmed & Artisan Notified",
+        "date": "10 Nov 2:35 PM",
+        "completed": true
+      },
+      {
+        "title": "Handcrafted Packaging & Quality Inspection",
+        "date": "11 Nov 10:00 AM",
+        "completed": true
+      },
+      {
+        "title": "Dispatched via Eco-Express Logistics",
+        "date": "11 Nov 3:15 PM",
+        "completed": true
+      },
+      {
+        "title": "Out for Delivery",
+        "date": "Expected 13 Nov",
+        "completed": false
+      }
+    ],
+    "paymentMethod": "UPI / GPay",
+    "handwrittenNoteRequested": true,
+    "noteMessage": "Happy 10th Anniversary to my wonderful sister who loves Indian handicrafts!"
+  }
+]

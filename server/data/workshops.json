@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wk-1",
+    "title": "Masterclass: Quartz Formulation & Natural Cobalt Glazing",
+    "artisanId": "art-1",
+    "artisanName": "Master Rameshwar Prajapati",
+    "craft": "Jaipur Blue Pottery",
+    "date": "Saturday, 15 Nov 2026",
+    "time": "4:00 PM - 5:30 PM IST",
+    "duration": "90 Minutes",
+    "fee": 499,
+    "maxSeats": 25,
+    "bookedSeats": 18,
+    "format": "Interactive Live Zoom + DIY Raw Materials Kit option",
+    "description": "Learn the chemical secrets of how quartz stone and glass cullet are transformed into unglazed paste, watch Master Rameshwar live on his foot wheel, and learn how copper and cobalt oxide pigments react in wood-fired kilns."
+  },
+  {
+    "id": "wk-2",
+    "title": "The Sacred Alchemy of Natural Indigo Fermentation",
+    "artisanId": "art-2",
+    "artisanName": "Khatri Abdul Rahim",
+    "craft": "Ajrakh Block Printing",
+    "date": "Sunday, 16 Nov 2026",
+    "time": "11:00 AM - 12:30 PM IST",
+    "duration": "90 Minutes",
+    "fee": 599,
+    "maxSeats": 20,
+    "bookedSeats": 15,
+    "format": "Live from Kutch Studio + Q&A with Master Khatri",
+    "description": "Experience the 400-year-old living indigo fermentation vats of Dhamadka. Master Abdul Rahim explains the natural bacteria feeding cycles with jaggery and dates, and demonstrates synchronous double-sided wooden block stamping."
+  },
+  {
+    "id": "wk-3",
+    "title": "Mithila Motifs & Line Storytelling with Natural Bamboo Nibs",
+    "artisanId": "art-3",
+    "artisanName": "Devi Artisan Collective",
+    "craft": "Madhubani Folk Painting",
+    "date": "Friday, 21 Nov 2026",
+    "time": "5:30 PM - 7:00 PM IST",
+    "duration": "90 Minutes",
+    "fee": 399,
+    "maxSeats": 30,
+    "bookedSeats": 22,
+    "format": "Interactive Step-by-Step Workshop + Downloadable Motif Guide",
+    "description": "Dip your pen or bamboo stick into natural pigments with Shobha Devi. Learn the foundational lines of the sacred Fish, Peacock, and Sun motifs, and discover the folk proverbs chanted while painting."
+  }
+]

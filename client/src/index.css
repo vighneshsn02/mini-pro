@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: #c85a32;
+    --primary-dark: #a2401d;
+    --secondary: #1d3557;
+    --accent: #d49b28;
+    --bg-warm: #faf7f2;
+    --bg-card: #ffffff;
+    --border-warm: #ecdcc9;
+    --text-main: #2c241e;
+    --text-muted: #6b5e52;
+  }
+
+  body {
+    background-color: #faf7f2;
+    color: #2c241e;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f4efe6;
+}
+::-webkit-scrollbar-thumb {
+  background: #d4c5b3;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b8a692;
+}
+
+/* Texture pattern for artisanal feel */
+.bg-kraft {
+  background-color: #faf7f2;
+  background-image: radial-gradient(#dfd5c6 0.75px, transparent 0.75px);
+  background-size: 16px 16px;
+}
+
+.border-artisan {
+  border-image: repeating-linear-gradient(45deg, #c85a32, #c85a32 10px, transparent 10px, transparent 20px) 1;
+}

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "art-1",
+    "name": "Master Rameshwar Prajapati",
+    "craftSpecialty": "Jaipur Blue Pottery",
+    "region": "Kot Jewar, Jaipur, Rajasthan",
+    "state": "Rajasthan",
+    "experience": "38 Years • 5th Gen Master Potter",
+    "award": "National Master Craftsman Award (2014) & Shilp Guru Nominee",
+    "cooperative": "Kot Jewar Ceramic Guild (42 Rural Families)",
+    "avatar": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Rameshwar-ji was born into the fifth generation of master potters in Kot Jewar, a legendary village outside Jaipur. Unlike conventional pottery, Jaipur Blue Pottery uses no clay whatsoever. Instead, he meticulously crushes pure quartz stone, glass cullet, and Multani Mitti into a fine paste. He paints traditional motifs using natural cobalt blue and copper green oxides with handmade squirrel-hair brushes before firing in his wood-stoked kiln.",
+    "storySnippet": "We do not touch river clay; we shape stones and glass into delicate poetry. Each vase holds 9 days of silence, sun, and fire.",
+    "quote": "When you drink tea from a handcrafted kulhad or place a blue pottery urn in your home, you aren't buying an object. You are giving life to a 500-year-old tradition.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 42,
+      "womenTrained": 35,
+      "fairWagePercentage": 78,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.96,
+    "reviewsCount": 168,
+    "giTagCertified": true,
+    "giTagNumber": "GI-02-RAJ-POTTERY",
+    "workshopAvailable": true,
+    "workshopTitle": "Masterclass: Quartz Formulation & Natural Cobalt Glazing",
+    "workshopPrice": 499,
+    "workshopNextDate": "Saturday, 4:00 PM IST"
+  },
+  {
+    "id": "art-2",
+    "name": "Khatri Abdul Rahim",
+    "craftSpecialty": "Ajrakh & Bagru Natural Indigo Block Print",
+    "region": "Dhamadka & Ajrakhpur, Kutch, Gujarat",
+    "state": "Gujarat",
+    "experience": "42 Years • 9th Gen Khatri Dyer",
+    "award": "UNESCO Seal of Excellence & President's Silver Medal",
+    "cooperative": "Kutch Indigo Weavers Collective (65 Artisans)",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1606744824163-985d376605aa?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Belonging to the historic Khatri community who migrated to Kutch over four centuries ago, Abdul Rahim specializes in 16-stage Ajrakh block printing. He works strictly with natural vegetable extracts: wild indigo cakes fermented in copper vats, harda (myrobalan), pomegranate peel, alizarin, and iron rust fermented with jaggery. His family prints both sides of the fabric synchronously with astonishing geometrical precision.",
+    "storySnippet": "Ajrakh translates to 'Aaj Rakh' — Keep it today. The fabric breathes with the seasons, keeping you cool in desert heat and warm in winter nights.",
+    "quote": "In every centimeter of Ajrakh fabric, you find the night sky of the desert, stars printed by hand with wooden teak blocks.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1606744824163-985d376605aa?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 65,
+      "womenTrained": 52,
+      "fairWagePercentage": 82,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.98,
+    "reviewsCount": 210,
+    "giTagCertified": true,
+    "giTagNumber": "GI-114-GUJ-AJRAKH",
+    "workshopAvailable": true,
+    "workshopTitle": "The Sacred Alchemy of Natural Indigo Fermentation",
+    "workshopPrice": 599,
+    "workshopNextDate": "Sunday, 11:00 AM IST"
+  },
+  {
+    "id": "art-3",
+    "name": "Devi Artisan Collective (Led by Shobha Devi)",
+    "craftSpecialty": "Madhubani / Mithila Folk Painting",
+    "region": "Jitwarpur, Madhubani, Bihar",
+    "state": "Bihar",
+    "experience": "26 Years • 3 Generations of Women Painters",
+    "award": "State Master Craftswomen Honour (2018)",
+    "cooperative": "Mithila Mahila Vikas Samiti (110+ Rural Women)",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Shobha Devi leads a proud self-help cooperative of over 110 village women in Jitwarpur, Bihar. Traditionally painted on mud walls during weddings and harvest festivals, Madhubani art has now transitioned to handmade paper and raw tussar silk. Shobha and her fellow sisters use bamboo twigs, nibs, matchsticks, and pure pigments ground from turmeric, marigold petals, aparajita flowers, soot, and cowdung.",
+    "storySnippet": "We do not leave a single empty millimeter on the canvas. Nature is abundant, and so is our devotion to Kohbar, fish, peacocks, and the Tree of Life.",
+    "quote": "Painting with my sisters bought our village girls bicycles to reach college. Each brushstroke is our independence.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 110,
+      "womenTrained": 110,
+      "fairWagePercentage": 85,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.94,
+    "reviewsCount": 142,
+    "giTagCertified": true,
+    "giTagNumber": "GI-105-BIH-MITHILA",
+    "workshopAvailable": true,
+    "workshopTitle": "Mithila Motifs & Storytelling with Bamboo Nibs",
+    "workshopPrice": 399,
+    "workshopNextDate": "Friday, 5:30 PM IST"
+  },
+  {
+    "id": "art-4",
+    "name": "Mohammad Rafiq Mir",
+    "craftSpecialty": "Handspun Pashmina & Sozni Needle Embroidery",
+    "region": "Old Srinagar City, Kashmir",
+    "state": "Kashmir",
+    "experience": "45 Years • Master Shawl Weaver & Naqash",
+    "award": "National Merit Certificate in Sozni Needlework",
+    "cooperative": "Kashmir Pashmina Karigar Sabha (38 Weavers)",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Mohammad Rafiq Mir has dedicated four and a half decades to the rare art of authentic hand-spun Changthangi Pashmina. Sourced from the high-altitude Ladakh plains, the raw cashmere down is hand-spun on wooden charkhas by Kashmiri women, hand-woven on foot-treadle looms, and then intricately embroidered using single-strand silk thread in the legendary Sozni needle technique.",
+    "storySnippet": "A single royal Pashmina shawl takes Mohammad Rafiq and his family over five months of microscopic needlework under gentle morning daylight.",
+    "quote": "Real Pashmina passes through a ring not because of synthetic silicon washes, but because the wool fibers are finer than a whisper.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 38,
+      "womenTrained": 45,
+      "fairWagePercentage": 80,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.99,
+    "reviewsCount": 95,
+    "giTagCertified": true,
+    "giTagNumber": "GI-46-J&K-PASHMINA",
+    "workshopAvailable": true,
+    "workshopTitle": "Identifying Authentic Pashmina & Sozni Needle Technique",
+    "workshopPrice": 650,
+    "workshopNextDate": "Sunday, 3:00 PM IST"
+  },
+  {
+    "id": "art-5",
+    "name": "Budhram Baghel",
+    "craftSpecialty": "4000-Year-Old Bastar Dhokra Bell Metal",
+    "region": "Kondagaon, Bastar, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "experience": "34 Years • Ghadwa Tribal Metallurgist",
+    "award": "National Tribal Craft Excellence Award",
+    "cooperative": "Bastar Ghadwa Shilpi Sangathan (55 Families)",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Budhram practices 'Cire Perdue' or the lost-wax casting technique that has remained unchanged since the Dancing Girl statue of the Indus Valley Civilization (2500 BCE). Using pure beeswax threads, river termite clay, and recycled bell metal brass, every figurine is a one-of-a-kind original. The wax melts away into the furnace earth, leaving behind an immortal brass sculpture that cannot be mechanically duplicated.",
+    "storySnippet": "Every mould is destroyed in the fire to release the bronze spirit. There are no two identical Dhokra pieces in the entire universe.",
+    "quote": "We do not cast metal for factories; we invite the forest deities and tribal folklore into glowing brass.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 55,
+      "womenTrained": 30,
+      "fairWagePercentage": 76,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.93,
+    "reviewsCount": 112,
+    "giTagCertified": true,
+    "giTagNumber": "GI-83-CG-DHOKRA",
+    "workshopAvailable": true,
+    "workshopTitle": "Lost-Wax Modeling & Clay Sculpting Fundamentals",
+    "workshopPrice": 450,
+    "workshopNextDate": "Next Wednesday, 6:00 PM IST"
+  },
+  {
+    "id": "art-6",
+    "name": "Govinda Swamy",
+    "craftSpecialty": "Channapatna Eco Wooden Lacquerware",
+    "region": "Channapatna, Ramanagara, Karnataka",
+    "state": "Karnataka",
+    "experience": "29 Years • Master Wood Turner",
+    "award": "Karnataka State Shilpa Kala Award",
+    "cooperative": "Channapatna Gombe Guild (70 Artisans)",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=600&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80",
+    "bio": "Govinda Swamy turns sustainably harvested Ivory Wood (Wrightia tinctoria or Aale Mara) on high-speed foot and electric lathes in the famous 'Toy Town' of Channapatna. He polishes the spinning wood with natural vegetable lac colored by turmeric, indigo, kumkum, and katha. Safe for babies and toddlers, the finish is 100% non-toxic, lead-free, and polished with screw-pine talipot leaves.",
+    "storySnippet": "Introduced by Tipu Sultan who invited Persian artisans, Channapatna toys are smooth as silk without a drop of chemical paint.",
+    "quote": "Children should hold trees and seeds in their hands, not petroleum plastics. That is the promise of Channapatna.",
+    "studioImages": [
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?auto=format&fit=crop&w=600&q=80"
+    ],
+    "impact": {
+      "familiesSupported": 70,
+      "womenTrained": 42,
+      "fairWagePercentage": 79,
+      "plasticFreePackaging": 100
+    },
+    "rating": 4.95,
+    "reviewsCount": 185,
+    "giTagCertified": true,
+    "giTagNumber": "GI-23-KAR-TOYS",
+    "workshopAvailable": true,
+    "workshopTitle": "Natural Lacquer Polishing & Toy Lathe Turning",
+    "workshopPrice": 350,
+    "workshopNextDate": "Saturday, 2:00 PM IST"
+  }
+]
